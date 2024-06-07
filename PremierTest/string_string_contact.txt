@@ -1,0 +1,7 @@
+
+    Nom: string
+    Prénom: string
+    Adresse: string
+    Téléphone: string
+    Email: string
+    

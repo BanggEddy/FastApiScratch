@@ -1,0 +1,7 @@
+
+    Nom: testnom
+    Prénom: testprenom
+    Adresse: adresse
+    Téléphone: tel
+    Email: email
+    
